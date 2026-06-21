@@ -6,4 +6,4 @@ MemoBench is a benchmark for evaluating visual memory in world generation models
 - 📄 Paper: coming soon
 - 🤗 Dataset: https://huggingface.co/datasets/tonyc54/MemoBench
 - 💻 Code: currently maintained in a private repository; public release coming soon.
-- 📊 Leaderboard: coming soon
+- 📊 Leaderboard: https://huggingface.co/spaces/cavenqjw/MemoBench_Leaderboard
